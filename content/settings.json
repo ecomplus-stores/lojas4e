@@ -1,16 +1,16 @@
 {
   "domain": "lojas4e.site",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#c23277",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojas4e",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/4elll.png",
   "name": "lojas4e",
-  "short_name": "lojas4e",
+  "short_name": "Lojas 4E",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#ffffff",
   "icon": "/img/icon.png",
   "store_id": 51310,
-  "description": "lojas4e",
+  "description": "Aqui na Loja 4E você encontra looks incríveis para você se sentir maravilhosa e esbanjar beleza.\nVista-se de si e brilhe!",
   "large_icon": "/img/large-icon.png"
 }
