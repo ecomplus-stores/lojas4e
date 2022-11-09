@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b568bc6ec16cb2596d0bd55c6b1a990c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a9ff21a4b7bd41c54c75ba3ff55ef766.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a3d35020c3e24eb4bfa6f2f070115060.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.194d47f504041d20d1d9ced1f1017242.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4aaf0108679a6347a70d125d629ba53e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "lojas4e",
+  "short_name": "Lojas 4E",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Aqui na Loja 4E você encontra looks incríveis para você se sentir maravilhosa e esbanjar beleza.\nVista-se de si e brilhe!",
+  "background_color": "#ffffff",
+  "theme_color": "#c23277"
+}
